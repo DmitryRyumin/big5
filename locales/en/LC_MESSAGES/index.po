@@ -1,9 +1,8 @@
-# SOME DESCRIPTIVE TITLE.
+# English translation.
 # Copyright (C) 2022. Speech and Multimodal Interfaces Laboratory Team
 # This file is distributed under the same license as the big5 package.
 # Elena Ryumina <ryumina_ev@mail.ru>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
