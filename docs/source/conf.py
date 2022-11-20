@@ -82,7 +82,15 @@ extensions = [
 ]
 
 # Локализация (язык): https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-language
+#
+# sphinx-build -b gettext docs/source/ docs/build/gettext
+# sphinx-intl update -p docs/build/gettext -l en -l ru
+# sphinx-build -a -b html -D language=en ./docs/source ./docs/build/en
 language = 'ru'
+locale_dirs = ['../../locales']
+gettext_uuid = True
+gettext_compact = False # 'docs'
+gettext_additional_targets = ['literal-block', 'raw', 'index']
 
 # Директории и файлы, которые следуют исключить при сборке
 exclude_patterns = ['../build']
@@ -91,7 +99,7 @@ exclude_patterns = ['../build']
 templates_path = ['_templates']
 
 # Минимальная версия Sphinx
-needs_sphinx = '5.1.1'
+needs_sphinx = '5.3.0'
 
 # Способ представления подсказок
 autodoc_typehints = 'both'
@@ -107,6 +115,12 @@ autodoc_default_options = {
 }
 
 autodoc_mock_imports = []
+
+github_username = 'dmitryryumin'
+github_repository = 'big5'
+
+panels_add_bootstrap_css = True
+panels_delimiters = (r"^\-{3,}$", r"^\^{3,}$", r"^\+{3,}$")
 
 # ######################################################################################################################
 # Настройки для генерации документации в формат HTML (Options for HTML output)

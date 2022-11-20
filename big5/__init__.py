@@ -8,7 +8,7 @@ __summary__ = 'big5'
 __uri__ = 'https://github.com/DmitryRyumin/big5'
 
 __version__ = '1.0'
-__release__ = __version__ + '.0-a6'
+__release__ = __version__ + '.0-a7'
 
 __author__ru__ = 'Рюмина Елена, Рюмин Дмитрий, Карпов Алексей'
 __author__en__ = 'Elena Ryumina, Dmitry Ryumin, Alexey Karpov'
@@ -18,5 +18,5 @@ __maintainer__ru__ = 'Рюмина Елена, Рюмин Дмитрий'
 __maintainer__en__ = 'Elena Ryumina, Dmitry Ryumin'
 __maintainer_email__ = 'ryumina_ev@mail.ru, dl_03.03.1991@mail.ru'
 
-__license__ = 'GPLv3'
+__license__ = 'BSD License'
 __copyright__ = '2022. Speech and Multimodal Interfaces Laboratory Team'

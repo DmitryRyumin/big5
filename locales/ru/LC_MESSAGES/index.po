@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022. Speech and Multimodal Interfaces Laboratory Team
+# This file is distributed under the same license as the big5 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: big5 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-20 17:34+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../source/index.rst:1
+msgid "Персональные качества личности человека"
+msgstr ""
+
+#: ../../source/index.rst:1
+msgid ""
+"big5, machine learning, statistics, computer vision, artificial "
+"intelligence, preprocessing"
+msgstr ""
+
+#: ../../source/index.rst:6
+msgid ""
+"Документация библиотеки алгоритмов сильного искусственного интеллекта - "
+"``big5``"
+msgstr ""
+
+#: ../../source/index.rst:8
+msgid ""
+"`big5 <https://github.com/DmitryRyumin/big5>`_ - библиотека с открытым "
+"исходным кодом, состоящая из набора алгоритмов интеллектуального анализа "
+"поведения человека на основе его мультимодальных данных для "
+"автоматического оценивания уровня отдельных персональных качеств личности"
+" человека для выполнения профессиональных обязанностей."
+msgstr ""
+
+#: ../../source/index.rst:-1
+msgid "PyPI"
+msgstr ""
+
+#: ../../source/index.rst:-1
+msgid "PyPI - Python Version"
+msgstr ""
+
+#: ../../source/index.rst:-1
+msgid "PyPI - Implementation"
+msgstr ""
+
+#: ../../source/index.rst:-1
+msgid "GitHub repo size"
+msgstr ""
+
+#: ../../source/index.rst:-1
+msgid "PyPI - Status"
+msgstr ""
+
+#: ../../source/index.rst:-1
+msgid "PyPI - License"
+msgstr ""
+
+#: ../../source/index.rst:-1
+msgid "GitHub top language"
+msgstr ""
+
+#: ../../source/index.rst:-1
+msgid "Documentation Status"
+msgstr ""
+
+#: ../../source/index.rst:32
+msgid "Библиотека в разработке"
+msgstr ""
+

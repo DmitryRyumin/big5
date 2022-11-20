@@ -1,0 +1,85 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022. Speech and Multimodal Interfaces Laboratory Team
+# This file is distributed under the same license as the big5 package.
+# Elena Ryumina <ryumina_ev@mail.ru>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"POT-Creation-Date: 2022-11-20 18:50+0300\n"
+"PO-Revision-Date: 2022-11-20 18:50+0300\n"
+"Last-Translator: Elena Ryumina <ryumina_ev@mail.ru>, Dmitry Ryumin <dl_03.03.1991@mail.ru>\n"
+"Language-Team: English <ryumina_ev@mail.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+#: ../../source/index.rst:1
+msgid "Персональные качества личности человека"
+msgstr "Personality Traits"
+
+#: ../../source/index.rst:1
+msgid ""
+"big5, machine learning, statistics, computer vision, artificial "
+"intelligence, preprocessing"
+msgstr ""
+"big5, machine learning, statistics, computer vision, artificial "
+"intelligence, preprocessing"
+
+#: ../../source/index.rst:6
+msgid ""
+"Документация библиотеки алгоритмов сильного искусственного интеллекта - "
+"``big5``"
+msgstr ""
+"Documentation of the Strong AI Algorithm Library - ``big5``"
+
+#: ../../source/index.rst:8
+msgid ""
+"`big5 <https://github.com/DmitryRyumin/big5>`_ - библиотека с открытым "
+"исходным кодом, состоящая из набора алгоритмов интеллектуального анализа "
+"поведения человека на основе его мультимодальных данных для "
+"автоматического оценивания уровня отдельных персональных качеств личности"
+" человека для выполнения профессиональных обязанностей."
+msgstr ""
+"`big5 <https://github.com/DmitryRyumin/big5>`_ - an open source library consisting of a set of algorithms for "
+"intelligent analysis of human behavior based on its multimodal data for automatic assessment of personality traits to "
+"perform professional duties."
+
+#: ../../source/index.rst:-1
+msgid "PyPI"
+msgstr "PyPI"
+
+#: ../../source/index.rst:-1
+msgid "PyPI - Python Version"
+msgstr "PyPI - Python Version"
+
+#: ../../source/index.rst:-1
+msgid "PyPI - Implementation"
+msgstr "PyPI - Implementation"
+
+#: ../../source/index.rst:-1
+msgid "GitHub repo size"
+msgstr "GitHub repo size"
+
+#: ../../source/index.rst:-1
+msgid "PyPI - Status"
+msgstr "PyPI - Status"
+
+#: ../../source/index.rst:-1
+msgid "PyPI - License"
+msgstr "PyPI - License"
+
+#: ../../source/index.rst:-1
+msgid "GitHub top language"
+msgstr "GitHub top language"
+
+#: ../../source/index.rst:-1
+msgid "Documentation Status"
+msgstr "Documentation Status"
+
+#: ../../source/index.rst:32
+msgid "Библиотека в разработке"
+msgstr "The library under development"
+
