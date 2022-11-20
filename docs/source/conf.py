@@ -86,7 +86,7 @@ extensions = [
 # sphinx-build -b gettext docs/source/ docs/build/gettext
 # sphinx-intl update -p docs/build/gettext -l en -l ru
 # sphinx-build -a -b html -D language=en ./docs/source ./docs/build/en
-language = None # 'ru'
+language = 'ru'
 locale_dirs = ['../../locales']
 gettext_uuid = True
 gettext_compact = False # 'docs'
